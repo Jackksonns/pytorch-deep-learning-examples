@@ -1,6 +1,6 @@
 
-
-# ——PyTorch 深度学习学习笔记（新手可轻松复现版）
+## Pytorch Deep learning Notes
+# ----PyTorch 深度学习学习笔记（新手可轻松复现版）
 
 [![GitHub stars](https://img.shields.io/github/stars/Jackksonns/pytorch-deep-learning-notes)](https://github.com/Jackksonns/pytorch-deep-learning-notes/stargazers)
  [![GitHub forks](https://img.shields.io/github/forks/Jackksonns/pytorch-deep-learning-notes)](https://github.com/Jackksonns/pytorch-deep-learning-notes/network/members)
