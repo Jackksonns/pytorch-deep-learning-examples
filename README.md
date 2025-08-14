@@ -36,6 +36,7 @@
 ├── SSD/                            # Single Shot MultiBox Detector
 ├── Semantic_Segmentation_and_Dataset/  # 语义分割与数据集
 ├── FCN/                            # 全卷积网络实现
+├── SSSModel/                       # Jackson KK 自制小模型（可在我的主页仓库中找到完整版）
 └── 房价预测House_price_predict/     # 房价回归示例
 ```
 
