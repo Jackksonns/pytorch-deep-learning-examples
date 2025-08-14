@@ -184,10 +184,10 @@ pip install matplotlib numpy pandas scikit-learn tensorboard
 
 感谢以下开源资源与社区对本项目的启发与支持：
 
-- **李沐（Li Mu）老师**：优秀的《动手学深度学习》（Dive into Deep Learning）课程与 d2l 包
-- **小土堆（Xiao Tu Dui）老师**：详尽的 PyTorch 教程资源和易上手的代码资源
-- **PyTorch 社区**：提供强大的深度学习框架与生态
-- **广泛的开源社区**：感谢大家共享的资料与工具（本项目也包含一些在kaggle比赛中表现优异的代码实现，具体引用详见对应文件，感谢大家的开源支持！）
+- [Li Mu (李沐)](https://github.com/d2l-ai/d2l-zh)老师：优秀的《动手学深度学习》（Dive into Deep Learning）课程与 d2l 包
+- [Xiao Tu Dui (小土堆)](https://github.com/xiaotudui/pytorch-tutorial)老师 ：详尽的 PyTorch 教程资源和易上手的代码资源
+- PyTorch 社区：提供强大的深度学习框架与生态
+- 广泛的开源社区：感谢大家共享的资料与工具（本项目也包含一些在kaggle比赛中表现优异的代码实现，具体引用详见对应文件，感谢大家的开源支持！）
 
 ## ⭐ 如果你觉得这个仓库对你有帮助，请点个 Star！你的支持是我持续更新与分享的动力。
 
