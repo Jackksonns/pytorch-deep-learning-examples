@@ -14,7 +14,7 @@
 ## 目录
 
 ```bash
-总深度学习学习笔记/
+./
 ├── deep_learning_basic/           # PyTorch 基础概念与操作
 ├── pytorch完整流程手搓basis/       # 完整的 PyTorch 训练流程示例（引自小土堆老师）
 ├── 经典网络架构/                  # 常见网络实现（LeNet/ResNet 等）
