@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Jackksonns/pytorch-deep-learning-notes)](https://github.com/Jackksonns/pytorch-deep-learning-notes/stargazers)
  [![GitHub forks](https://img.shields.io/github/forks/Jackksonns/pytorch-deep-learning-notes)](https://github.com/Jackksonns/pytorch-deep-learning-notes/network/members)
  [![GitHub issues](https://img.shields.io/github/issues/Jackksonns/pytorch-deep-learning-notes)](https://github.com/Jackksonns/pytorch-deep-learning-notes/issues)
- [![GitHub license](https://img.shields.io/github/license/Jackksonns/pytorch-deep-learning-notes)](https://github.com/Jackksonns/pytorch-deep-learning-notes/blob/main/LICENSE)
+ [![GitHub license](https://img.shields.io/github/license/Jackksonns/pytorch-deep-learning-notes)](https://github.com/Jackksonns/pytorch-deep-learning-notes/main/LICENSE)
 
 ------
 
